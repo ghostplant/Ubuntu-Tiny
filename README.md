@@ -3,6 +3,7 @@
 ------------------------------------------
 ### What's New:
 
+* 20250808: Debian 13 Trixie Release (aarch64 + amd64);
 * 20250504: Debian 13 Trixie Draft (aarch64 + amd64);
 * 20241225: Bug Fix - EFI dependency missing using Wiminstall.gptboot for Windows Installation;
 * 20241116: Add Ubuntu Tiny for Arm64 (support [Mac VBox](https://www.virtualbox.org/wiki/Downloads) / Android pKVM);
