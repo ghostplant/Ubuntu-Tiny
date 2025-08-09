@@ -3,7 +3,7 @@
 ------------------------------------------
 ### What's New:
 
-* 20250808: Debian 13 Trixie Release (aarch64 + amd64);
+* 20250809: Debian 13 Trixie Release (aarch64 + amd64);
 * 20250504: Debian 13 Trixie Draft (aarch64 + amd64);
 * 20241225: Bug Fix - EFI dependency missing using Wiminstall.gptboot for Windows Installation;
 * 20241116: Add Ubuntu Tiny for Arm64 (support [Mac VBox](https://www.virtualbox.org/wiki/Downloads) / Android pKVM);
@@ -24,7 +24,7 @@
 
 ### - Debian Tiny 13 Trixie for CDROM/USB (LANG = en_US | zh_CN):
 
-> **Download Full Desktop Version (550M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/ubuntu-pe/releases/download/debian-13/trixie-mate-x86_64-20250808.iso) | [arm64 (UEFI)](https://github.com/ghostplant/ubuntu-pe/releases/download/debian-13/trixie-mate-aarch64-20250808.iso)
+> **Download Full Desktop Version (550M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/ubuntu-pe/releases/download/debian-13/trixie-mate-x86_64-20250809.iso) | [arm64 (UEFI)](https://github.com/ghostplant/ubuntu-pe/releases/download/debian-13/trixie-mate-aarch64-20250809.iso)
 
 ### - Ubuntu Tiny 24.04 Noble LTS for CDROM/USB (LANG = en_US | zh_CN):
 
