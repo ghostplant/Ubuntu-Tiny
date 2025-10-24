@@ -3,6 +3,7 @@
 ------------------------------------------
 ### What's New:
 
+* 20251024: Ubuntu 26.04 Core Release (aarch64 + amd64);
 * 20250809: Debian 13 Trixie Release (aarch64 + amd64);
 * 20250504: Debian 13 Trixie Draft (aarch64 + amd64);
 * 20241225: Bug Fix - EFI dependency missing using Wiminstall.gptboot for Windows Installation;
@@ -21,6 +22,11 @@
 * ..
 
 ------------------------------------------
+### - Ubuntu Tiny 26.04 Resolute LTS for CDROM/USB (LANG = en_US | zh_CN):
+
+>
+>
+> **Download No-desktop/No-driver Version (130M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-x86_64-20251024.iso) | [arm64 (UEFI)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-aarch64-20251024.iso)
 
 ### - Debian Tiny 13 Trixie for CDROM/USB (LANG = en_US | zh_CN):
 
@@ -32,7 +38,7 @@
 >
 > **Download Full Desktop Version (560M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/ubuntu-pe/releases/download/ubuntu-24.04/noble-mate-x86_64-20241225.iso) | [arm64 (UEFI)](https://github.com/ghostplant/ubuntu-pe/releases/download/ubuntu-24.04/noble-mate-aarch64-20241225.iso)
 >
-> **Download No-desktop Version (140M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/ubuntu-pe/releases/download/ubuntu-24.04/noble-core-x86_64-20241122.iso) | [arm64 (UEFI)](https://github.com/ghostplant/ubuntu-pe/releases/download/ubuntu-24.04/noble-core-aarch64-20241122.iso)
+> **Download No-desktop/No-driver Version (140M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/ubuntu-pe/releases/download/ubuntu-24.04/noble-core-x86_64-20241122.iso) | [arm64 (UEFI)](https://github.com/ghostplant/ubuntu-pe/releases/download/ubuntu-24.04/noble-core-aarch64-20241122.iso)
 
 <p align="center">
   <img src="Ubuntu_PE.jpg" data-canonical-src="Ubuntu_PE.jpg" />
