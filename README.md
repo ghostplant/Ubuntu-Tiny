@@ -3,6 +3,7 @@
 ------------------------------------------
 ### What's New:
 
+* 20251110: Ubuntu 26.04 Core with Secure Boot Enabled (aarch64 + amd64);
 * 20251024: Ubuntu 26.04 Core Release (aarch64 + amd64);
 * 20250809: Debian 13 Trixie Release (aarch64 + amd64);
 * 20250504: Debian 13 Trixie Draft (aarch64 + amd64);
@@ -26,7 +27,7 @@
 
 >
 >
-> **Download No-desktop/No-driver Version (130M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-x86_64-20251024.iso) | [arm64 (UEFI)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-aarch64-20251024.iso)
+> **Download No-desktop/No-driver Version (140M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-x86_64-20251111.iso) | [arm64 (UEFI)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-aarch64-20251111.iso)
 
 ### - Debian Tiny 13 Trixie for CDROM/USB (LANG = en_US | zh_CN):
 
