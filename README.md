@@ -3,7 +3,8 @@
 ------------------------------------------
 ### What's New:
 
-* 20251110: Ubuntu 26.04 Core with Secure Boot Enabled (aarch64 + amd64);
+* 20251116: Ubuntu 26.04 Core adds Grub option for serial stdio and UTF-8;
+* 20251111: Ubuntu 26.04 Core with Secure Boot Enabled;
 * 20251024: Ubuntu 26.04 Core Release (aarch64 + amd64);
 * 20250809: Debian 13 Trixie Release (aarch64 + amd64);
 * 20250504: Debian 13 Trixie Draft (aarch64 + amd64);
