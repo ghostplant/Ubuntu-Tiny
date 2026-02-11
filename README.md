@@ -3,6 +3,7 @@
 ------------------------------------------
 ### What's New:
 
+* 20260210: Ubuntu 26.04 Resolute Desktop Draft;
 * 20251116: Ubuntu 26.04 Core adds Grub option for serial stdio and UTF-8;
 * 20251111: Ubuntu 26.04 Core with Secure Boot Enabled;
 * 20251024: Ubuntu 26.04 Core Release (aarch64 + amd64);
@@ -26,7 +27,7 @@
 ------------------------------------------
 ### - Ubuntu Tiny 26.04 Resolute LTS for CDROM/USB (LANG = en_US | zh_CN):
 
->
+> **Download Full Desktop Version (550M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-mate-x86_64-20260210.iso)
 >
 > **Download No-desktop/No-driver Version (140M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-x86_64-20251116.iso) | [arm64 (UEFI)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-aarch64-20251116.iso)
 
