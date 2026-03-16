@@ -1,6 +1,14 @@
 # Ubuntu Tiny: A Fast, Portable and Power-Saving edition for Ubuntu/Debian LTS
 
 ------------------------------------------
+### - Ubuntu Tiny 26.04 Resolute LTS for CDROM/USB (LANG = en_US | zh_CN):
+
+> **Download Full Desktop Version (570M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-mate-x86_64-20260315.iso) | [arm64 (UEFI)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-mate-aarch64-20260315.iso)
+>
+> **Download No-desktop/No-driver Version (140M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-x86_64-20251116.iso) | [arm64 (UEFI)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-aarch64-20251116.iso)
+
+------------------------------------------
+
 ### What's New:
 
 * 20260315: Ubuntu 26.04 Resolute for AMD64 / ARM64;
@@ -26,31 +34,14 @@
 * ..
 
 ------------------------------------------
-### - Ubuntu Tiny 26.04 Resolute LTS for CDROM/USB (LANG = en_US | zh_CN):
-
-> **Download Full Desktop Version (570M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-mate-x86_64-20260315.iso) | [arm64 (UEFI)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-mate-aarch64-20260315.iso)
->
-> **Download No-desktop/No-driver Version (140M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-x86_64-20251116.iso) | [arm64 (UEFI)](https://github.com/ghostplant/Ubuntu-Tiny/releases/download/ubuntu-26.04/resolute-core-aarch64-20251116.iso)
-
-### - Debian Tiny 13 Trixie for CDROM/USB (LANG = en_US | zh_CN):
-
-> **Download Full Desktop Version (550M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/ubuntu-pe/releases/download/debian-13/trixie-mate-x86_64-20250809.iso) | [arm64 (UEFI)](https://github.com/ghostplant/ubuntu-pe/releases/download/debian-13/trixie-mate-aarch64-20250809.iso)
-
-### - Ubuntu Tiny 24.04 Noble LTS for CDROM/USB (LANG = en_US | zh_CN):
-
->
->
-> **Download Full Desktop Version (560M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/ubuntu-pe/releases/download/ubuntu-24.04/noble-mate-x86_64-20241225.iso) | [arm64 (UEFI)](https://github.com/ghostplant/ubuntu-pe/releases/download/ubuntu-24.04/noble-mate-aarch64-20241225.iso)
->
-> **Download No-desktop/No-driver Version (140M+)**: [x64 (UEFI+MBR)](https://github.com/ghostplant/ubuntu-pe/releases/download/ubuntu-24.04/noble-core-x86_64-20241122.iso)
-
-<p align="center">
-  <img src="Ubuntu_PE.jpg" data-canonical-src="Ubuntu_PE.jpg" />
-</p>
-
-------------------------------------------
 
 ### - Early Versions in History:
+
+- **Debian 13 Tiny (LANG = en_US | zh_CN)** Download: [x64 (UEFI+MBR)](https://github.com/ghostplant/ubuntu-pe/releases/download/debian-13/trixie-mate-x86_64-20250809.iso) | [arm64 (UEFI)](https://github.com/ghostplant/ubuntu-pe/releases/download/debian-13/trixie-mate-aarch64-20250809.iso)
+
+- **Ubuntu 24.04 LTS Tiny (LANG = en_US | zh_CN)** Download: [x64 (UEFI+MBR)](https://github.com/ghostplant/ubuntu-pe/releases/download/ubuntu-24.04/noble-mate-x86_64-20241225.iso) | [arm64 (UEFI)](https://github.com/ghostplant/ubuntu-pe/releases/download/ubuntu-24.04/noble-mate-aarch64-20241225.iso)
+
+- **Ubuntu 24.04 LTS Tiny Core (LANG = en_US | zh_CN)** Download: [x64 (UEFI+MBR)](https://github.com/ghostplant/ubuntu-pe/releases/download/ubuntu-24.04/noble-core-x86_64-20241122.iso)
 
 - **Debian 12 Tiny (LANG = en_US | zh_CN)** Download: [x64 (UEFI+MBR)](https://github.com/ghostplant/ubuntu-pe/releases/download/debian-12/debian-mate-x86_64-20231220.iso) | [x86 (MBR)](https://github.com/ghostplant/ubuntu-pe/releases/download/debian-12/debian-mate-i686-20231226.iso)
 
@@ -92,6 +83,10 @@
            
            [Method-3: For UEFI Installation to GPT Hard Drive]
            sudo EFI=/dev/<efi-part-name> wiminstall.gptboot /dev/<os-part-name> <WIM file> <image-id>
+
+<p align="center">
+  <img src="Ubuntu_PE.jpg" data-canonical-src="Ubuntu_PE.jpg" />
+</p>
 
 ------------------------------------------
 
